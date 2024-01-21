@@ -1,3 +1,5 @@
+; Test
+
 ^q::
     CoordMode, Mouse, Screen
     Click, 1820, 825
