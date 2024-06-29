@@ -20,7 +20,7 @@
     Click, 1750, 657
     Sleep, 200
     Click, 1815, 657
-    Sleep, 750
+    Sleep, 1000
 return
 
 ^Esc::ExitApp
