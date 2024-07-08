@@ -2,7 +2,8 @@
 ; Note: Make sure to have runelite right tab open
 ; Note: Zoom 100% in
 
-^q::
+; ^q::
+^Space::
     CoordMode, Mouse, Screen
 
     ; Click 1: swamp tar
