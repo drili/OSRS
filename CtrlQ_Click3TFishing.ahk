@@ -11,8 +11,8 @@
     Random, yCoord1, 608, 640
     Click, %xCoord1%, %yCoord1%
 
-    ; Sleep between 600-700 ms
-    Random, sleepTime1, 600, 700
+    ; Sleep
+    Random, sleepTime1, 50, 150
     Sleep, %sleepTime1%
 
     ; Click 2: herb
@@ -20,8 +20,8 @@
     Random, yCoord2, 666, 697
     Click, %xCoord2%, %yCoord2%
 
-    ; Sleep between 600-700 ms
-    Random, sleepTime2, 600, 700
+    ; Sleep
+    Random, sleepTime2, 100, 130
     Sleep, %sleepTime2%
 
     ; Click 3: fishing spot
