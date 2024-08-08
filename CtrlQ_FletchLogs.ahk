@@ -33,5 +33,7 @@
     Send, {Space}
 
     return
-    
+
 ^Esc::ExitApp
+
+; Sleep 49-55 sec after
